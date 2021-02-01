@@ -37,6 +37,9 @@ Exercism has a pretty good [Getting Started](https://exercism.io/getting-started
 
 Note that Exercism's Python tests are written using `unittest`, so it is worth checking [the relevant documentation](https://docs.python.org/3/library/unittest.html) if you need help understanding it.
 
+### Submitting your solutions to Exercism
+When you are ready to submit, navigate to the folder which your solution is in. For example, `cd ~/Exercism/python/hello-world`. Then run the command `exercism submit <filename.fileextension>`, so for hello world in python this would be `exercism submit hellow-world.py`.
+
 ## Exercise 2: Further Exercism challenges
 
 At this point in time - one week into your full-time training! - we recommend working through the challenges labelled as 'Easy'.
